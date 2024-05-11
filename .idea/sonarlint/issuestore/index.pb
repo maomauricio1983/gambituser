@@ -21,3 +21,8 @@ B
 go.sum,5\a\5aa1ac64de2b0c4821af9393b44965020e4a521d
 8
 subo.bat,4\e\4e7b711156c4105c0cab67a977c3c3dc355ff40c
+=
+.gitignore.go,6\f\6fc503039b07d3d0b4f82b6b39dc3b8066e5bcfa
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
