@@ -1,0 +1,23 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+6
+go.mod,c\4\c47645c391ad0571c40779079363c9d48412e18b
+7
+main.go,0\6\0607f785dfa3c3861b3239f6723eb276d8056461
+>
+awsgo/awsgo.go,4\e\4e6dc133cd325200f98bc861b7f363d693d95894
+@
+models/models.go,e\0\e0a602f72707c541a5eca0b647df081ecae2e5c6
+B
+secretm/secretm.go,2\a\2a981ac8a10bae67c176610c633be8d7524ca820
+<
+bd/common.go,9\a\9aa6dc75c7a6299ca9d545f5ee2c72873dc23795
+>
+tools/tools.go,6\8\683390d33800b215ba7f1c806f5653d249b848d3
+<
+bd/signup.go,2\5\25312dac1dece0b6be5b7d438324a78ac2ae82c9
+6
+go.sum,5\a\5aa1ac64de2b0c4821af9393b44965020e4a521d
+8
+subo.bat,4\e\4e7b711156c4105c0cab67a977c3c3dc355ff40c
